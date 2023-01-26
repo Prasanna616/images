@@ -5,3 +5,6 @@ Hello evryone
 Goog afternoon
 
 Hello Biraj
+
+#unstage the file
+git reset [file] 
